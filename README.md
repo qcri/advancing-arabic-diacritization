@@ -33,7 +33,7 @@ This repository provides all publicly shareable datasets and tools developed in 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Abubakr17/advancing-arabic-diacritization.git
+git clone https://github.com/qcri/advancing-arabic-diacritization.git
 cd advancing-arabic-diacritization
 ```
 
