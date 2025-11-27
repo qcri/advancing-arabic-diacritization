@@ -71,13 +71,25 @@ The script reports both **WER** and **DER**, with or without multi-reference mod
 If you use these datasets or scripts, please cite:
 
 ```
-@inproceedings{mohamed2025Advancing,
-  title     = {Advancing Arabic Diacritization: Improved Datasets, Benchmarking, and State-of-the-Art Models},
-  author    = {Mohamed, Abubakr and Mubarak, Hamdy},
-  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
-  year      = {2025}
+@inproceedings{mohamed-mubarak-2025-advancing,
+    title = "Advancing {A}rabic Diacritization: Improved Datasets, Benchmarking, and State-of-the-Art Models",
+    author = "Mohamed, Abubakr  and
+      Mubarak, Hamdy",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.846/",
+    doi = "10.18653/v1/2025.emnlp-main.846",
+    pages = "16718--16730",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 
-(A final BibTeX entry will be added once the paper is published.)
+
 
